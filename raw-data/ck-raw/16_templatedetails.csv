@@ -1,0 +1,4 @@
+file,class,type,cbo,wmc,dit,noc,rfc,lcom,nom,nopm,nosm,nof,nopf,nosf,nosi,loc
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/16_templatedetails/src/main/java/com/rakegroup/JoomlaOutput.java,com.rakegroup.JoomlaOutput,class,38,117,52,0,26,3623,86,85,1,10,0,0,2,413
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/16_templatedetails/evosuite-tests/com/rakegroup/JoomlaOutputEvoSuiteTest.java,com.rakegroup.JoomlaOutputEvoSuiteTest,class,34,87,1,0,89,2695,73,73,2,1,0,1,5,608
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/16_templatedetails/src/test/java/JoomlaOutputTests.java,com.rakegroup.JoomlaOutputTests,class,1,6,2,0,6,10,5,5,0,0,0,0,0,47

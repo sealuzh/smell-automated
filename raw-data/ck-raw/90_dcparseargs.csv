@@ -1,0 +1,14 @@
+file,class,type,cbo,wmc,dit,noc,rfc,lcom,nom,nopm,nosm,nof,nopf,nosf,nosi,loc
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/90_dcparseargs/evosuite-tests/de/devcity/parseargs/arguments/ParameterArgumentEvoSuiteTest.java,de.devcity.parseargs.arguments.ParameterArgumentEvoSuiteTest,class,5,6,1,0,3,6,4,4,1,0,0,0,0,44
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/90_dcparseargs/src/main/java/de/devcity/parseargs/arguments/StringArgument.java,de.devcity.parseargs.arguments.StringArgument,class,1,4,2,0,0,0,2,2,0,1,0,0,0,30
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/90_dcparseargs/src/test/java/de/devcity/parseargs/ArgsParserTest.java,de.devcity.parseargs.ArgsParserTest,class,5,4,2,0,17,0,4,4,0,3,0,0,0,103
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/90_dcparseargs/evosuite-tests/de/devcity/parseargs/arguments/KeyArgumentEvoSuiteTest.java,de.devcity.parseargs.arguments.KeyArgumentEvoSuiteTest,class,6,8,1,0,5,15,6,6,1,0,0,0,0,59
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/90_dcparseargs/src/main/java/de/devcity/parseargs/arguments/SwitchArgument.java,de.devcity.parseargs.arguments.SwitchArgument,class,1,2,3,0,0,0,2,2,0,1,0,0,0,29
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/90_dcparseargs/src/main/java/de/devcity/parseargs/arguments/ParameterArgument.java,de.devcity.parseargs.arguments.ParameterArgument,class,1,6,3,0,1,0,2,2,0,1,0,0,0,31
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/90_dcparseargs/evosuite-tests/de/devcity/parseargs/ArgsParserEvoSuiteTest.java,de.devcity.parseargs.ArgsParserEvoSuiteTest,class,8,29,1,0,14,378,28,28,1,0,0,0,0,282
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/90_dcparseargs/evosuite-tests/de/devcity/parseargs/arguments/StringArgumentEvoSuiteTest.java,de.devcity.parseargs.arguments.StringArgumentEvoSuiteTest,class,5,4,1,0,3,3,3,3,1,0,0,0,0,32
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/90_dcparseargs/src/main/java/de/devcity/parseargs/arguments/KeyArgument.java,de.devcity.parseargs.arguments.KeyArgument,class,1,7,2,0,1,0,3,3,0,1,0,0,0,34
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/90_dcparseargs/src/main/java/de/devcity/parseargs/ArgsParser.java,de.devcity.parseargs.ArgsParser,class,3,58,1,0,10,0,9,9,0,4,2,2,0,172
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/90_dcparseargs/evosuite-tests/de/devcity/parseargs/arguments/ArgumentEvoSuiteTest.java,de.devcity.parseargs.arguments.ArgumentEvoSuiteTest,class,5,2,1,0,2,1,2,2,1,0,0,0,0,24
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/90_dcparseargs/evosuite-tests/de/devcity/parseargs/arguments/SwitchArgumentEvoSuiteTest.java,de.devcity.parseargs.arguments.SwitchArgumentEvoSuiteTest,class,5,2,1,0,2,1,2,2,1,0,0,0,0,23
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/90_dcparseargs/src/main/java/de/devcity/parseargs/arguments/Argument.java,de.devcity.parseargs.arguments.Argument,class,1,3,1,2,1,0,3,3,0,1,0,0,0,31

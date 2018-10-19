@@ -1,0 +1,9 @@
+file,class,type,cbo,wmc,dit,noc,rfc,lcom,nom,nopm,nosm,nof,nopf,nosf,nosi,loc
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/53_shp2kml/evosuite-tests/net/sourceforge/shp2kml/Shp2KMLGUIEvoSuiteTest.java,net.sourceforge.shp2kml.Shp2KMLGUIEvoSuiteTest,class,3,1,1,0,0,0,1,1,1,0,0,0,0,16
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/53_shp2kml/src/main/java/net/sourceforge/shp2kml/Converter.java,net.sourceforge.shp2kml.Converter,class,7,6,1,0,21,1,2,2,2,0,0,0,4,69
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/53_shp2kml/evosuite-tests/net/sourceforge/shp2kml/ConverterEvoSuiteTest.java,net.sourceforge.shp2kml.ConverterEvoSuiteTest,class,5,2,1,0,1,1,2,2,1,0,0,0,0,22
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/53_shp2kml/src/main/java/net/sourceforge/shp2kml/KMLObject.java,net.sourceforge.shp2kml.KMLObject,class,0,7,1,0,4,0,4,4,0,3,0,0,0,47
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/53_shp2kml/src/main/java/net/sourceforge/shp2kml/Shp2KMLGUI.java,net.sourceforge.shp2kml.Shp2KMLGUI,class,1,11,7,0,19,34,4,4,0,2,0,1,1,65
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/53_shp2kml/src/main/java/net/sourceforge/shp2kml/GeomConverter.java,net.sourceforge.shp2kml.GeomConverter,class,3,19,1,0,14,45,10,10,10,0,0,0,12,99
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/53_shp2kml/evosuite-tests/net/sourceforge/shp2kml/KMLObjectEvoSuiteTest.java,net.sourceforge.shp2kml.KMLObjectEvoSuiteTest,class,8,8,1,0,12,22,7,7,2,1,0,1,1,66
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/53_shp2kml/evosuite-tests/net/sourceforge/shp2kml/GeomConverterEvoSuiteTest.java,net.sourceforge.shp2kml.GeomConverterEvoSuiteTest,class,17,13,1,0,15,45,10,10,1,0,0,0,8,122
