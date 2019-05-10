@@ -1,0 +1,9 @@
+class,type,cbo,wmc,dit,noc,rfc,lcom,nom,nopm,nosm,nof,nopf,nosf,nosi,loc
+edu.mscd.cs.jclo.JCLO,class,7,128,1,0,51,590,37,26,1,6,0,0,11,473
+ExampleEvoSuiteTest,class,5,2,1,0,0,1,2,2,1,0,0,0,0,19
+MainEvoSuiteTest,class,5,2,1,0,3,1,2,2,1,0,0,0,0,22
+ExampleArgsEvoSuiteTest,class,5,2,1,0,0,1,2,2,1,0,0,0,0,19
+Main,class,2,2,1,0,3,1,2,2,1,4,0,0,0,24
+Example,class,2,1,1,0,8,0,1,1,1,5,0,0,1,23
+edu.mscd.cs.jclo.Equivalent,class,3,11,1,0,10,15,6,1,6,19,0,0,8,148
+edu.mscd.cs.jclo.JCLOEvoSuiteTest,class,12,38,1,0,29,351,27,27,1,0,0,0,5,265
