@@ -1,0 +1,9 @@
+file,class,type,cbo,wmc,dit,noc,rfc,lcom,nom,nopm,nosm,nof,nopf,nosf,nosi,loc
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/94_jclo/src/main/java/edu/mscd/cs/jclo/JCLO.java,edu.mscd.cs.jclo.JCLO,class,7,128,1,0,51,590,37,26,1,6,0,0,11,473
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/94_jclo/evosuite-tests/ExampleEvoSuiteTest.java,ExampleEvoSuiteTest,class,5,2,1,0,0,1,2,2,1,0,0,0,0,19
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/94_jclo/evosuite-tests/MainEvoSuiteTest.java,MainEvoSuiteTest,class,5,2,1,0,3,1,2,2,1,0,0,0,0,22
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/94_jclo/evosuite-tests/ExampleArgsEvoSuiteTest.java,ExampleArgsEvoSuiteTest,class,5,2,1,0,0,1,2,2,1,0,0,0,0,19
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/94_jclo/src/main/java/edu/mscd/cs/jclo/Main.java,Main,class,2,2,1,0,3,1,2,2,1,4,0,0,0,24
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/94_jclo/src/main/java/edu/mscd/cs/jclo/Example.java,Example,class,2,1,1,0,8,0,1,1,1,5,0,0,1,23
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/94_jclo/src/test/java/edu/mscd/cs/jclo/JCLOTests.java,edu.mscd.cs.jclo.Equivalent,class,3,11,1,0,10,15,6,1,6,19,0,0,8,148
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/94_jclo/evosuite-tests/edu/mscd/cs/jclo/JCLOEvoSuiteTest.java,edu.mscd.cs.jclo.JCLOEvoSuiteTest,class,12,38,1,0,29,351,27,27,1,0,0,0,5,265

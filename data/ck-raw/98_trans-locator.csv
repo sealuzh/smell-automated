@@ -1,0 +1,11 @@
+file,class,type,cbo,wmc,dit,noc,rfc,lcom,nom,nopm,nosm,nof,nopf,nosf,nosi,loc
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/98_trans-locator/src/main/java/Joshua/FoxHunt/Landmark.java,Joshua.FoxHunt.Landmark,class,0,7,1,0,0,3,7,7,0,3,0,0,0,44
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/98_trans-locator/evosuite-tests/Joshua/FoxHunt/LandmarkEvoSuiteTest.java,Joshua.FoxHunt.LandmarkEvoSuiteTest,class,6,7,1,0,7,21,7,7,1,0,0,0,0,63
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/98_trans-locator/evosuite-tests/Joshua/FoxHunt/FoxHuntFrameEvoSuiteTest.java,Joshua.FoxHunt.FoxHuntFrameEvoSuiteTest,class,3,1,1,0,0,0,1,1,1,0,0,0,0,16
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/98_trans-locator/evosuite-tests/Joshua/FoxHunt/FoxCalcEvoSuiteTest.java,Joshua.FoxHunt.FoxCalcEvoSuiteTest,class,6,3,1,0,5,3,3,3,1,0,0,0,1,30
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/98_trans-locator/evosuite-tests/Joshua/FoxHunt/HuntDisplayEvoSuiteTest.java,Joshua.FoxHunt.HuntDisplayEvoSuiteTest,class,7,9,1,0,10,15,6,6,1,0,0,0,0,75
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/98_trans-locator/src/main/java/Joshua/FoxHunt/FoxHuntFrame.java,Joshua.FoxHunt.FoxHuntFrame,class,5,33,7,0,43,57,15,9,0,9,0,0,10,201
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/98_trans-locator/evosuite-tests/Joshua/FoxHunt/TrigPointEvoSuiteTest.java,Joshua.FoxHunt.TrigPointEvoSuiteTest,class,5,7,1,0,6,21,7,7,1,0,0,0,0,69
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/98_trans-locator/src/main/java/Joshua/FoxHunt/FoxCalc.java,Joshua.FoxHunt.FoxCalc,class,1,1,1,0,8,0,1,1,1,0,0,0,8,38
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/98_trans-locator/src/main/java/Joshua/FoxHunt/TrigPoint.java,Joshua.FoxHunt.TrigPoint,class,0,8,1,0,1,0,8,8,0,4,0,0,2,55
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/98_trans-locator/src/main/java/Joshua/FoxHunt/HuntDisplay.java,Joshua.FoxHunt.HuntDisplay,class,2,18,4,0,21,1,6,6,0,3,0,0,0,91

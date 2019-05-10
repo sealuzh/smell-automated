@@ -1,0 +1,13 @@
+file,class,type,cbo,wmc,dit,noc,rfc,lcom,nom,nopm,nosm,nof,nopf,nosf,nosi,loc
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/34_sbmlreader2/evosuite-tests/sbmlreader2/SBMLGraphReader2EvoSuiteTest.java,sbmlreader2.SBMLGraphReader2EvoSuiteTest,class,7,3,1,0,7,3,3,3,0,0,0,0,0,61
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/34_sbmlreader2/src/main/java/sbmlreader2/SBMLFilter.java,sbmlreader2.SBMLFilter,class,4,12,2,0,7,1,3,3,0,3,0,3,2,121
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/34_sbmlreader2/src/main/java/sbmlreader2/SBMLVisualStyleFactory.java,sbmlreader2.SBMLVisualStyleFactory,class,12,3,1,0,9,0,1,1,1,3,3,3,0,128
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/34_sbmlreader2/evosuite-tests/sbmlreader2/SBMLFilterEvoSuiteTest.java,sbmlreader2.SBMLFilterEvoSuiteTest,class,9,8,1,0,12,22,7,7,2,1,0,1,1,91
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/34_sbmlreader2/evosuite-tests/sbmlreader2/SBMLReaderPlugin2EvoSuiteTest.java,sbmlreader2.SBMLReaderPlugin2EvoSuiteTest,class,2,0,1,0,0,0,0,0,0,0,0,0,0,11
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/34_sbmlreader2/src/main/java/sbmlreader2/SBMLGraphReader2.java,sbmlreader2.SBMLGraphReader2,class,22,27,4,0,44,6,5,5,0,4,0,0,1,238
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/34_sbmlreader2/src/main/java/sbmlreader2/SBMLReaderPlugin2.java,sbmlreader2.SBMLReaderPlugin2,class,5,6,3,0,13,3,3,3,0,1,1,1,6,104
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/34_sbmlreader2/src/main/java/sbmlreader2/AddToClasspath.java,sbmlreader2.AddToClasspath,class,0,3,1,0,10,3,3,3,3,1,0,1,6,36
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/34_sbmlreader2/evosuite-tests/sbmlreader2/SBMLVisualStyleFactoryEvoSuiteTest.java,sbmlreader2.SBMLVisualStyleFactoryEvoSuiteTest,class,4,1,1,0,1,0,1,1,0,0,0,0,0,22
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/34_sbmlreader2/src/main/java/sbmlreader2/SBMLGraphReader.java,sbmlreader2.SBMLGraphReader,class,19,31,2,0,42,5,6,6,0,3,0,0,1,220
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/34_sbmlreader2/evosuite-tests/sbmlreader2/AddToClasspathEvoSuiteTest.java,sbmlreader2.AddToClasspathEvoSuiteTest,class,4,2,1,0,2,1,2,2,0,0,0,0,1,33
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/34_sbmlreader2/evosuite-tests/sbmlreader2/SBMLGraphReaderEvoSuiteTest.java,sbmlreader2.SBMLGraphReaderEvoSuiteTest,class,5,8,1,0,7,10,5,5,0,0,0,0,1,108

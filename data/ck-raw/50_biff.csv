@@ -1,0 +1,9 @@
+file,class,type,cbo,wmc,dit,noc,rfc,lcom,nom,nopm,nosm,nof,nopf,nosf,nosi,loc
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/50_biff/evosuite-tests/CodesEvoSuiteTest.java,CodesEvoSuiteTest,class,5,4,1,0,4,6,4,4,1,0,0,0,0,34
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/50_biff/evosuite-tests/InterpreterEvoSuiteTest.java,InterpreterEvoSuiteTest,class,5,2,1,0,0,1,2,2,1,0,0,0,0,19
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/50_biff/evosuite-tests/ScannerEvoSuiteTest.java,ScannerEvoSuiteTest,class,3,1,1,0,0,0,1,1,1,0,0,0,0,15
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/50_biff/src/main/java/Interpreter.java,Interpreter,class,1,1,1,0,0,0,1,1,1,0,0,0,0,25
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/50_biff/evosuite-tests/ExecLexemEvoSuiteTest.java,ExecLexemEvoSuiteTest,class,5,4,1,0,2,3,3,3,1,0,0,0,0,34
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/50_biff/src/main/java/Codes.java,Codes,class,0,5,1,0,2,0,3,3,0,52,1,50,0,128
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/50_biff/src/main/java/Scanner.java,ExecLexem,class,5,733,1,0,62,127,43,9,0,23,1,0,0,2065
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/50_biff/evosuite-tests/AdvLexemEvoSuiteTest.java,AdvLexemEvoSuiteTest,class,5,2,1,0,1,1,2,2,1,0,0,0,0,24

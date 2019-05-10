@@ -1,0 +1,14 @@
+file,class,type,cbo,wmc,dit,noc,rfc,lcom,nom,nopm,nosm,nof,nopf,nosf,nosi,loc
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/91_classviewer/evosuite-tests/com/jstevh/tools/StringToolsEvoSuiteTest.java,com.jstevh.tools.StringToolsEvoSuiteTest,class,5,8,1,0,8,21,7,7,1,0,0,0,5,90
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/91_classviewer/src/main/java/com/jstevh/tools/StringTools.java,com.jstevh.tools.StringTools,class,1,27,1,0,10,0,4,3,3,1,0,1,0,131
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/91_classviewer/evosuite-tests/com/jstevh/tools/StringListEvoSuiteTest.java,com.jstevh.tools.StringListEvoSuiteTest,class,5,8,1,0,9,21,7,7,1,0,0,0,0,64
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/91_classviewer/src/main/java/com/jstevh/tools/StringList.java,com.jstevh.tools.StringList,class,1,10,1,0,7,0,8,8,0,3,0,0,0,74
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/91_classviewer/src/main/java/com/jstevh/viewer/SAXDirParser.java,com.jstevh.viewer.SAXDirParser,class,6,61,2,0,18,22,12,12,7,11,1,6,1,187
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/91_classviewer/src/main/java/com/jstevh/viewer/MethodData.java,com.jstevh.viewer.MethodData,interface,0,3,1,0,0,3,3,3,0,0,0,0,0,41
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/91_classviewer/evosuite-tests/com/jstevh/viewer/SAXDirParserEvoSuiteTest.java,com.jstevh.viewer.SAXDirParserEvoSuiteTest,class,10,22,1,0,14,210,21,21,1,0,0,0,16,168
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/91_classviewer/evosuite-tests/com/jstevh/viewer/ClassViewerEvoSuiteTest.java,com.jstevh.viewer.ClassViewerEvoSuiteTest,class,3,1,1,0,0,0,1,1,1,0,0,0,0,16
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/91_classviewer/evosuite-tests/com/jstevh/viewer/ClassInfoEvoSuiteTest.java,com.jstevh.viewer.ClassInfoEvoSuiteTest,class,6,6,1,0,4,6,4,4,1,0,0,0,2,46
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/91_classviewer/src/main/java/com/jstevh/viewer/ClassInfo.java,com.jstevh.viewer.ClassInfo,class,5,160,1,0,47,31,23,18,4,12,2,3,17,506
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/91_classviewer/src/main/java/com/jstevh/viewer/ClassViewer.java,com.jstevh.viewer.ClassViewer,class,6,213,7,0,139,432,36,26,1,57,8,11,20,913
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/91_classviewer/evosuite-tests/com/jstevh/viewer/DirManagerEvoSuiteTest.java,com.jstevh.viewer.DirManagerEvoSuiteTest,class,6,10,1,0,12,45,10,10,1,0,0,0,0,83
+/Users/grano/Desktop/ist-generation-scripts/SF110-src/91_classviewer/src/main/java/com/jstevh/viewer/DirManager.java,com.jstevh.viewer.DirManager,class,5,26,1,0,25,4,13,12,1,7,3,3,11,167
